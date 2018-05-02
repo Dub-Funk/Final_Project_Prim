@@ -99,5 +99,14 @@ def components(G):
     return[({v},[]) for v in G.vertex_set()]
     
 #def possible_edges(G)
+
+#In trying to figure out how to connect them if they are disjoint
+#for e in G.vertex_set
+    if e in neighbors
+        if v in vertex_disjoint = True
+            G.drawsubgraph(g)
+            
+       
+#What else would be needed to make this True?
     
     
